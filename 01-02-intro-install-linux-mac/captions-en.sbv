@@ -1,11 +1,11 @@
 0:00:00.250,0:00:03.500
-To use git you, must install it first
+To use Git, you must install it first
 
 0:00:03.800,0:00:07.120
-If you are on linux you can just use your package manager.
+If you are on Linux you can just use your package manager.
 
 0:00:07.260,0:00:09.640
-No matter what package manager you use, they can all install git.
+No matter what package manager you use, they can all install Git.
 
 0:00:09.680,0:00:12.380
 You can use the default setup, no customization is needed
@@ -14,16 +14,16 @@ You can use the default setup, no customization is needed
 running the "git" command on Mac will force it to install xcode tools
 
 0:00:18.760,0:00:22.460
-this contains git as well, but not the latest version.
+this contains Git as well, but not the latest version.
 
 0:00:22.820,0:00:26.240
-There is also an official package that you can download from the git website,
+There is also an official package that you can download from the Git website,
 
 0:00:26.920,0:00:29.340
 but it also may not be the latest.
 
 0:00:29.700,0:00:34.200
-Most of the time, it doesnt matter as even old versions of git will handle most of the tasks you need.
+Most of the time, it doesnt matter as even old versions of Git will handle most of the tasks you need.
 
 0:00:34.640,0:00:36.300
 But if we want to use the latest and greatest

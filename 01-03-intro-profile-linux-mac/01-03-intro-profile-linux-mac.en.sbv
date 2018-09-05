@@ -1,5 +1,5 @@
 0:00:00.000,0:00:02.860
-After installing git you may want to change
+After installing Git you may want to change
 
 0:00:02.860,0:00:04.600
 some of your profile settings.
@@ -14,7 +14,7 @@ or any similar file that your shell is using.
 Heres an example:
 
 0:00:13.380,0:00:18.140
-First environment variable is setting the language for git messages
+First environment variable is setting the language for Git messages
 
 0:00:18.400,0:00:21.420
 One can use LC_MESSAGES or LANGUAGE.
@@ -26,19 +26,19 @@ I've set mine to english.
 The rest of this file contains command line settings.
 
 0:00:27.340,0:00:31.420
-You can, of course, skip it if you want to start working with git immediately.
+You can, of course, skip it if you want to start working with Git immediately.
 
 0:00:31.680,0:00:34.140
-This script [git-completion.bash] mostly goes as a part of a git install
+This script [git-completion.bash] mostly runs as a part of a Git install
 
 0:00:34.140,0:00:36.560
-and sets the autocompletion for the git console commands.
+and sets the autocompletion for the Git console commands.
 
 0:00:37.160,0:00:40.780
 I have it here, and you, most likely, will have it in some other location.
 
 0:00:40.780,0:00:43.800
-But even if you dont have it, you can download it from here.
+But even if you don't have it, you can download it from here.
 
 0:00:43.800,0:00:46.660
 And this script "git-prompt.sh" is in the same place
@@ -47,7 +47,7 @@ And this script "git-prompt.sh" is in the same place
 and it contains a git_ps1 function that allows us to add various useful info
 
 0:00:51.260,0:00:54.640
-about the state of the git project to the command prompt
+about the state of the Git project to the command prompt
 
 0:00:54.640,0:00:56.640
 These 2 environment variables
@@ -63,16 +63,16 @@ These are the most basic settings.
 There are plenty of other,
 
 0:01:06.240,0:01:09.480
-way more powerful scripts for efficient command line and git integration,
+way more powerful scripts for efficient command line and Git integration,
 
 0:01:09.480,0:01:11.480
-written by the 3rd party developers.
+written by 3rd party developers.
 
 0:01:11.480,0:01:13.480
 They are easy to find,
 
 0:01:13.480,0:01:18.240
-just google "git prompt" and your shell name
+just google "Git prompt" and your shell name
 
 0:01:18.420,0:01:22.340
 like bash or zsh or any other
@@ -81,10 +81,10 @@ like bash or zsh or any other
 And you will see dozens of results.
 
 0:01:24.820,0:01:30.040
-But you may not want to spend your time on that right now. First, watch the screencast and get a better understanding of git.
+But you may not want to spend your time on that right now. First, watch the screencast and get a better understanding of Git.
 
 0:01:30.080,0:01:34.540
-Right after that I highly recommend you to install this kind of script as it can be extremely helpful.
+Right after that I highly recommend that you install this kind of script as it can be extremely helpful.
 
 0:01:34.540,0:01:37.820
 In this screencast I use a bash script
